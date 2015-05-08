@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<script src="test.js"></script>
+<script src="js/jquery-2.1.1.min.js"></script>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/test.css" rel="stylesheet">
+<title>ViewTeam</title>
+</head>
+<body background="images/IPL_back.jpg">
+	<div class="container" style="height: 10%">
+		<div class="navbar navbar-inverse navbar-fixed-top" id="header"
+			style="height: 10%;">
+			<div class="header" style="height: 100%;">
+				<a href="home.do"> <img src="images/logo.png" alt="some_text"
+					style="height: 100%;">
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="container  bodycontainer" style="height: 90%">
+		<div class="bordering" style="height: 20%">
+			<div class="viewHeader centering" style="height: 50%">
+				<input type="text" name="teamName" maxlength="255" required id="team" >
+			</div>
+			<div class="viewHeader centering" style="height: 50%">
+				<button type="button" class="hvr-pulse-grow" onclick="sendTeam();">Get Team!</button>
+				
+			</div>
+
+		</div>
+		<div class="bordering" style="height: 77%">
+			<img alt="team" src="images/team.jpg" width="100%">
+		</div>
+	</div>
+</body>
+</html>

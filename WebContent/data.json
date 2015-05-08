@@ -1,0 +1,89 @@
+{
+	"Batsmen":[
+    { "Name":"Brendon McCullum", "Money":"1,050,000", "Team":"CSK", "Id":"1"}, 
+    {"Name":"Suresh Raina", "Money":"1,100,000", "Team":"CSK", "Id":"2"}, 
+    
+    {"Name":"JP Duminy","Money":"1,000,000", "Team":"DD", "Id":"3"},
+    {"Name":"Manoj Tiwary","Money":"800,000", "Team":"DD", "Id":"4"},
+    
+    {"Name":"Virender Sehwag","Money":"950,000", "Team":"KKIP", "Id":"5"},
+    {"Name":"Glenn Maxwell","Money":"1,050,000", "Team":"KKIP", "Id":"6"},
+    
+    {"Name":"Gautam Gambhir","Money":"950,000", "Team":"KKR", "Id":"7"},
+    {"Name":"Robin Uthappa","Money":"950,000", "Team":"KKR", "Id":"8"},
+    
+    {"Name":"Rohit Sharma ","Money":"950,000", "Team":"MI", "Id":"9"},
+    {"Name":"Aaron Finch","Money":"950,000", "Team":"MI", "Id":"10"},
+    
+    {"Name":"Ajinkya Rahane","Money":"950,000", "Team":"RR", "Id":"11"},
+    {"Name":"Sanju Samson","Money":"950,000", "Team":"RR", "Id":"12"},
+    
+    {"Name":"Chris Gayle","Money":"950,000", "Team":"RCB", "Id":"13"},
+    {"Name":"Virat Kohli","Money":"950,000", "Team":"RCB", "Id":"14"},
+    
+    {"Name":"David Warner","Money":"950,000", "Team":"SRH", "Id":"15"},
+    {"Name":"Eoin Morgan","Money":"950,000", "Team":"SRH", "Id":"16"}
+	]
+	,
+	
+	"Bowler":[
+    { "Name":"Matt Henry", "Money":"1,050,000", "Team":"CSK", "Id":"17"}, 
+    
+    {"Name":"JP Duminy","Money":"1,000,000", "Team":"DD", "Id":"18"},
+    
+    {"Name":"Virender Sehwag","Money":"950,000", "Team":"KKIP", "Id":"19"},
+    
+    {"Name":"Gautam Gambhir","Money":"950,000", "Team":"KKR", "Id":"20"},
+    
+    {"Name":"Rohit Sharma ","Money":"950,000", "Team":"MI", "Id":"21"},
+    
+    {"Name":"Ajinkya Rahane","Money":"950,000", "Team":"RR", "Id":"22"},
+    
+    {"Name":"Chris Gayle","Money":"950,000", "Team":"RCB", "Id":"23"},
+    
+    {"Name":"David Warner","Money":"950,000", "Team":"SRH", "Id":"24"}
+	]
+	
+	,
+	
+	"WicketKeeper":[
+    { "Name":"Matt Henry", "Money":"1,050,000", "Team":"CSK", "Id":"25"}, 
+    
+    {"Name":"JP Duminy","Money":"1,000,000", "Team":"DD", "Id":"26"},
+    
+    {"Name":"Virender Sehwag","Money":"950,000", "Team":"KKIP", "Id":"27"},
+    
+    {"Name":"Gautam Gambhir","Money":"950,000", "Team":"KKR", "Id":"28"},
+    
+    {"Name":"Rohit Sharma ","Money":"950,000", "Team":"MI", "Id":"29"},
+    
+    {"Name":"Ajinkya Rahane","Money":"950,000", "Team":"RR", "Id":"30"},
+    
+    {"Name":"Chris Gayle","Money":"950,000", "Team":"RCB", "Id":"31"},
+    
+    {"Name":"David Warner","Money":"950,000", "Team":"SRH", "Id":"32"}
+	]
+	
+	,
+	
+	"AllRounder":[
+    { "Name":"Matt Henry", "Money":"1,050,000", "Team":"CSK", "Id":"25"}, 
+    
+    {"Name":"JP Duminy","Money":"1,000,000", "Team":"DD", "Id":"26"},
+    
+    {"Name":"Virender Sehwag","Money":"950,000", "Team":"KKIP", "Id":"27"},
+    
+    {"Name":"Gautam Gambhir","Money":"950,000", "Team":"KKR", "Id":"28"},
+    
+    {"Name":"Rohit Sharma ","Money":"950,000", "Team":"MI", "Id":"29"},
+    
+    {"Name":"Ajinkya Rahane","Money":"950,000", "Team":"RR", "Id":"30"},
+    
+    {"Name":"Chris Gayle","Money":"950,000", "Team":"RCB", "Id":"31"},
+    
+    {"Name":"David Warner","Money":"950,000", "Team":"SRH", "Id":"32"}
+	]
+	,
+	
+	"pk":[]
+}
