@@ -38,12 +38,10 @@ public class ContactController {
 	}
 	
 	@RequestMapping(value = "/success.do", method = RequestMethod.POST)
-	public String addContact(@ModelAttribute Contacts contact, Model model, HttpSession session) {
+	public String addContact(@ModelAttribute Contacts contact, Model model) {
 		model.addAttribute("contact", contact);
 		contactService.add(contact);
-		Contacts  contactList = contactService.getContact("pk");
-		session.setAttribute("ContactList", contactList);
-		System.out.println(contactList);
+		
 		String redirectView = "forward:/success.html";
 		return redirectView;
 	}
